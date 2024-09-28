@@ -1,0 +1,14 @@
+body {
+    background-color: #dc143c;
+    text-align: center;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 50px;
+    padding: 10px;
+    border-color: white;
+}
